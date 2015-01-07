@@ -1,140 +1,21 @@
-[default]
-
-[app/install/install_source_checksum]
-version = 6.2.0
-modtime = 1415660698.779439000
+[app/ui]
+version = 6.2.1
+modtime = 1420638259.684617000
 
 [app/launcher]
-version = 5.0.1
-modtime = 1357744798.024702000
+version = 6.2.1
+modtime = 1420638259.688186000
 
-[app/ui]
-version = 5.0.1
-modtime = 1357744798.019729000
+[views/the_project_gutenberg_ebook_of_the_complete_works_of_william_shakespeare_by_william_shakespeare]
+owner = admin
+version = 6.2.1
+modtime = 1420640253.924873000
 
-[indexes/shakespeare]
-version = 5.0.1
-modtime = 1359406157.976212000
+[views/shakespeare_stats]
+owner = admin
+version = 6.2.1
+modtime = 1420650814.087261000
 
 [nav/default]
-version = 5.0.1
-modtime = 1361320347.268667000
-
-[savedsearches/Table%20of%20Contents]
-version = 5.0.1
-modtime = 1360700383.467098000
-export = none
-owner = admin
-
-[savedsearches/shakespeare%20alas%20poor]
-version = 6.2.0
-modtime = 1415123999.542765000
-export = none
-owner = admin
-
-[savedsearches/shakespeare%20alas%20poor%20count]
-version = 6.2.0
-modtime = 1415123988.312102000
-export = none
-owner = admin
-
-[savedsearches/shakespeare%20table%20of%20publications]
-version = 5.0.1
-modtime = 1359515318.579128000
-export = none
-owner = admin
-
-[savedsearches/shakespeare%20table%20of%20publications%20with%20word%20count]
-version = 6.2.0
-modtime = 1415123834.984135000
-export = none
-owner = admin
-
-[savedsearches/shakespeare%20top%2010%20punct]
-version = 6.2.0
-modtime = 1415123940.026151000
-export = none
-owner = admin
-
-[savedsearches/shakespeare%20top%2010%20punct%20pie]
-version = 6.2.0
-modtime = 1415123950.282761000
-export = none
-owner = admin
-
-[savedsearches/shakespeare%20top%2010%20words]
-version = 6.2.0
-modtime = 1415123750.484297000
-export = none
-owner = admin
-
-[savedsearches/shakespeare%20top%2010%20words%20bar]
-version = 6.2.0
-modtime = 1415123960.762720000
-export = none
-owner = admin
-
-[views/shakespeare]
-version = 6.2.0
-modtime = 1415123891.508608000
-owner = admin
-
-[views/table_of_contents]
-version = 6.2
-modtime = 1414432375.518477000
-owner = admin
-
-[viewstates/flashtimeline%3Ahchsptk7]
-version = 5.0.1
-modtime = 1359388336.889933000
-export = system
-owner = nobody
-
-[viewstates/flashtimeline%3Ahchstpj1]
-version = 5.0.1
-modtime = 1359388518.329721000
-export = system
-owner = nobody
-
-[viewstates/flashtimeline%3Ahchsvfk2]
-version = 5.0.1
-modtime = 1359388598.667832000
-export = system
-owner = nobody
-
-[viewstates/flashtimeline%3Ahchszavh]
-version = 5.0.1
-modtime = 1359388779.223402000
-export = system
-owner = nobody
-
-[viewstates/flashtimeline%3Ahcht2g1i]
-version = 5.0.1
-modtime = 1359388925.891183000
-export = system
-owner = nobody
-
-[viewstates/flashtimeline%3Ahcht69n5]
-version = 5.0.1
-modtime = 1359389104.231387000
-export = system
-owner = nobody
-
-[viewstates/flashtimeline%3Ahcjtjxc1]
-version = 5.0.1
-modtime = 1359510674.144615000
-export = system
-owner = nobody
-
-[viewstates/flashtimeline%3Ahcjtyxwp]
-version = 5.0.1
-modtime = 1359511374.395506000
-export = system
-owner = nobody
-
-[viewstates/flashtimeline%3Ahd3hummf]
-version = 5.0.1
-modtime = 1360700341.461636000
-export = system
-owner = nobody
-
+version = 6.2.1
+modtime = 1420651093.508935000
